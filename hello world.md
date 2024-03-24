@@ -3,9 +3,8 @@
 Hello world!
 ## Выделение текста
 
-*coursive*
-
-**semi-fat**
+Что бы выделить текст курсивом обрамите его звездочками "**" *coursive*
+Что бы выделить текс полужирным обромить двумя звездами "** **" **semi-fat**
 
 ## Списки 
 * add el1
@@ -15,5 +14,3 @@ Hello world!
 1. firs el
 2. sec el
 3. third el
-
-Let get start a control of a version!
