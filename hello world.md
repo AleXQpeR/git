@@ -1,9 +1,10 @@
-# First fil of a control of versions #
+# First file of a control of versions #
 
 Hello world!
 ## Выделение текста
 
 Что бы выделить текст курсивом обрамите его звездочками "**" *coursive*
+
 Что бы выделить текс полужирным обромить двумя звездами "** **" **semi-fat**
 
 ## Списки 
