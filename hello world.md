@@ -1,9 +1,13 @@
+# First fil of a control of versions #
+
 Hello world!
+## Выделение текста
 
 *coursive*
 
 **semi-fat**
 
+## Списки 
 * add el1
 * add el2
 * add el3
